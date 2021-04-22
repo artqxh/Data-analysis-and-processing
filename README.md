@@ -1,0 +1,2 @@
+# Data-analysis-and-processing
+Format and export data and results to various programs in vector and bitmap formats. Analysis of an exemplary digital signal. Spectral analysis, filtering, analysis of periodic components. Analysis of sample results and data to determine quantitative relationships using correlation, autoregression and prediction methods. Variance analysis and verification of statistical hypotheses, confidence intervals, variable distributions. Drawing waveforms and graphic processing of the final results with statistical analysis.
